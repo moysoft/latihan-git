@@ -1,0 +1,1 @@
+Test pembuatan text file pada git untuk latihan git
